@@ -1,6 +1,7 @@
 1. Introduction
 
 	Distributed LR With Parameter Server
+	based PS-Lite
 
 2. Install
     
